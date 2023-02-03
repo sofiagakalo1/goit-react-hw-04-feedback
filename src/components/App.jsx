@@ -29,6 +29,8 @@ export const App = () => {
     return Number(percentage);
   };
 
+  // console.log(Object.keys(state));
+
   return (
     <>
       <Section title={'Please leave a feedback'}>
